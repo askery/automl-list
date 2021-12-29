@@ -10,8 +10,8 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |SMAC3                 | Python | Open Source | Code   |
 |Advisor               | Python | Open Source | Code   |
 |Auger                 | Python | Commercial  | Link   |
-|auto-sklearn          | Python | Open Source | Code   | Yes (MLP)
-|Auto-Keras            | Python | Open Source | Code   | Yes           | Classification/Regression |
+|auto-sklearn          | Python | Open Source | Code   | Yes (MLP)  | Classification/Regression |
+|Auto-Keras            | Python | Open Source | Code   | Yes        | Classification/Regression |
 |RoBO                  | Python | Open Source | Code
 |BayesianOptimization  | Python | Open Source | Code
 |Scikit-Optimize       | Python | Open Source | Code
