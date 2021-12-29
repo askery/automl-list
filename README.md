@@ -29,7 +29,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |MLJAR                 | Python | Commercial  | Link
 |MateLabs              | Python | Commercial  | Link
 |FAR-HO                | Python | Open Source | Code
-|Xcessiv	             | Python	| Apache 2.0	| | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
+|Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 
 
 # Java 
