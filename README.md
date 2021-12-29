@@ -15,7 +15,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |Hyperopt              | Python | Open Source | Code   |
 |Hyperopt-sklearn      | Python | Open Source | Code   | 
 |RoBO                  | Python | Open Source | Code
-|Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | <a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
+|Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
 |SigOpt                | Python | Commercial  | Link   |
 |SMAC3                 | Python | Open Source | Code   |
 |HyperBand             | Python | Open Source | Code
