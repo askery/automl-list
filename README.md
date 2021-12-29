@@ -41,3 +41,5 @@ TransmogrifAI         | Scala  | Open Source | Code
 |Name                  |Lang    |Availability | Source |
 | -------------------  | ------ | ----------- | ------ |
 BayesOpt              | C++    | Open Source | Code
+
+This list is in part a update of this repository: https://github.com/theainerd/automated-machine-learning
