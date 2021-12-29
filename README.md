@@ -2,16 +2,16 @@
 A List of open-source and commercial Automated Machine Learning tools 
 
 # Python
-|Name                  |Lang    |Availability | Source |
-| -------------------  | ------ | ----------- | ------ |
+|Name                  |Lang    |Availability | Source | Deep Learning |
+| -------------------  | ------ | ----------- | ------ | ------------- |
 |Hyperopt              | Python | Open Source | Code   |
 |Hyperopt-sklearn      | Python | Open Source | Code   | 
 |SigOpt                | Python | Commercial  | Link   |
 |SMAC3                 | Python | Open Source | Code   |
 |Advisor               | Python | Open Source | Code   |
 |Auger                 | Python | Commercial  | Link   |
-auto-sklearn          | Python | Open Source | Code
-Auto-Keras            | Python | Open Source | Code
+|auto-sklearn          | Python | Open Source | Code   | 
+|Auto-Keras            | Python | Open Source | Code   | Yes
 RoBO                  | Python | Open Source | Code
 BayesianOptimization  | Python | Open Source | Code
 Scikit-Optimize       | Python | Open Source | Code
