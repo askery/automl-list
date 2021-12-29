@@ -3,10 +3,15 @@ A List of open-source and commercial Automated Machine Learning tools
 
 # Python - Open Source
 Hyperopt              | Python | Open Source | Code
+
 Hyperopt-sklearn      | Python | Open Source | Code
+
 SigOpt                | Python | Commercial  | Link
+
 SMAC3                 | Python | Open Source | Code
+
 Advisor               | Python | Open Source | Code
+
 Auger                 | Python | Commercial  | Link
 auto-sklearn          | Python | Open Source | Code
 Auto-Keras            | Python | Open Source | Code
