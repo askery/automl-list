@@ -2,7 +2,7 @@
 A List of open-source and commercial Automated Machine Learning (autoML) tools 
 
 # Python
-|Name                  |Language|Availability | Deep Learning | ML Tasks                 | Source |
+|Name                  |Language| License*     | Deep Learning | ML Tasks                 | Source |
 | -------------------  | ------ | ----------- | ------------- | ----------------------   | ------ |
 |Advisor               | Python | Open Source | Yes | Classification/Regression|<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |Auger                 | Python | Commercial  | Yes | Classification/Regression/Time Series|<a href="https://auger.ai/" target="_blank">link</a>
@@ -42,6 +42,8 @@ TransmogrifAI         | Scala  | Open Source | Code
 | -------------------  | ------ | ----------- | ------ |
 BayesOpt              | C++    | Open Source | Code
 
+
+* For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
 ## References
 This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
