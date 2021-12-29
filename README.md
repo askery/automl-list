@@ -1,25 +1,15 @@
 # automl-list
 A List of open-source and commercial Automated Machine Learning tools 
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
-
-
-# Python - Open Source
+# Python
 |Name                  |Lang    |Availability | Source |
 | -------------------  | ------ | ----------- | ------ |
 |Hyperopt              | Python | Open Source | Code   |
 |Hyperopt-sklearn      | Python | Open Source | Code   | 
-
-SigOpt                | Python | Commercial  | Link
-
-SMAC3                 | Python | Open Source | Code
-
-Advisor               | Python | Open Source | Code
-
-Auger                 | Python | Commercial  | Link
+|SigOpt                | Python | Commercial  | Link   |
+|SMAC3                 | Python | Open Source | Code   |
+|Advisor               | Python | Open Source | Code   |
+|Auger                 | Python | Commercial  | Link   |
 auto-sklearn          | Python | Open Source | Code
 Auto-Keras            | Python | Open Source | Code
 RoBO                  | Python | Open Source | Code
