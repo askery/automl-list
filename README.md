@@ -8,9 +8,10 @@ A List of open-source and commercial Automated Machine Learning tools
 
 
 # Python - Open Source
-Hyperopt              | Python | Open Source | Code
-
-Hyperopt-sklearn      | Python | Open Source | Code
+|Name                  |Lang    |Availability | Source |
+| -------------------  | ------ | ----------- | ------ |
+|Hyperopt              | Python | Open Source | Code   |
+|Hyperopt-sklearn      | Python | Open Source | Code   | 
 
 SigOpt                | Python | Commercial  | Link
 
