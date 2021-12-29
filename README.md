@@ -9,7 +9,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |auto-sklearn          | Python | Open Source (BSD-3-Clause) | Yes (MLP)| Classification/Regression | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator |<a href="https://github.com/automl/auto-sklearn" target="_blank">github</a>
 |Auto-Keras            | Python | Open Source | Yes | Classification(also for Text)/Regression (also for Text)/Time Series|<a href="https://github.com/keras-team/autokeras" target="_blank">github</a>
 |BayesianOptimization  | Python | Open Source | Yes (MLP)| HyperParameter Optimization |<a href="https://github.com/fmfn/BayesianOptimization" target="_blank">github</a>
-|GAMA	                 | Python	| Open Source (Apache 2.0) | Yes | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | Code
+|GAMA	                 | Python	| Open Source (Apache 2.0) | Yes | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
 |Hyperopt              | Python | Open Source | Code   |
 |Hyperopt-sklearn      | Python | Open Source | Code   | 
 |RoBO                  | Python | Open Source | Code
