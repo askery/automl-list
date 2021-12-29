@@ -2,7 +2,7 @@
 A List of open-source and commercial Automated Machine Learning (autoML) tools 
 
 # Python
-|Name                  |Lang    |Availability | Deep Learning | ML Tasks                 | Source |
+|Name                  |Language|Availability | Deep Learning | ML Tasks                 | Source |
 | -------------------  | ------ | ----------- | ------------- | ----------------------   | ------ |
 |Advisor               | Python | Open Source | Yes | Classification/Regression|<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |Auger                 | Python | Commercial  | Yes | Classification/Regression/Time Series|<a href="https://auger.ai/" target="_blank">link</a>
