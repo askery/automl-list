@@ -11,6 +11,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |Auto-Keras            | Python | MIT | Classification(also for Text)/Regression (also for Text)/Time Series| AutoKeras: An AutoML system based on Keras. The goal of AutoKeras is to make machine learning accessible to everyone | <a href="https://github.com/keras-team/autokeras" target="_blank">github</a>
 |BayesianOptimization  | Python | MIT         | HyperParameter Optimization | Pure Python implementation of bayesian global optimization with gaussian processes | <a href="https://github.com/fmfn/BayesianOptimization" target="_blank">github</a>
 |devol                 | Python | MIT         | | DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras | <a href="https://github.com/joeddav/devol" target="_blank"> github </a>
+|FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | <a href="https://github.com/lucfra/FAR-HO" target="_blank">github</a>
 |GAMA	                 | Python	| Apache 2.0  | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
 |Hyperopt              | Python | Open Source | Code   |
 |Hyperopt-sklearn      | Python | Open Source | Code   | 
@@ -29,7 +30,6 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
 |MateLabs              | Python | Commercial  | Link
-|FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | <a href="https://github.com/lucfra/FAR-HO" target="_blank">github</a>
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 
 
@@ -61,6 +61,6 @@ BayesOpt              | C++    | Open Source | Code
 This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
 
 
-Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., AutoWeka, MLBox, auto-sklearn, TPOT, HpBandSter, AutoKeras, prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai).
+<!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). --->
 
 
