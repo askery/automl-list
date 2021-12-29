@@ -16,7 +16,6 @@ RoBO                  | Python | Open Source | Code
 BayesianOptimization  | Python | Open Source | Code
 Scikit-Optimize       | Python | Open Source | Code
 HyperBand             | Python | Open Source | Code
-BayesOpt              | C++    | Open Source | Code
 Optunity              | Python | Open Source | Code
 TPOT                  | Python | Open Source | Code
 Cloud AutoML          | Python | Commercial  | Link
@@ -25,11 +24,14 @@ DataRobot             | Python | Commercial  | Link
 MLJAR                 | Python | Commercial  | Link
 MateLabs              | Python | Commercial  | Link
 FAR-HO                | Python | Open Source | Code
-TransmogrifAI         | Scala  | Open Source | Code
 DEvol                 | Python | Open Source | Code
 
 
-# Java - Open Source
+# Java 
 Auto-WEKA             | Java   | Open Source | Code
 
 # Scala - 
+TransmogrifAI         | Scala  | Open Source | Code
+
+# C++
+BayesOpt              | C++    | Open Source | Code
