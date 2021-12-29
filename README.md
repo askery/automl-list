@@ -2,14 +2,14 @@
 A List of open-source and commercial Automated Machine Learning (autoML) tools 
 
 # Python
-|Name                  |Language| License*    | Deep Learning | ML Tasks                 | Short Description |Source | 
-| -------------------  | ------ | ----------- | ------------- | ----------------------   | ------ | ------ |
-|Advisor               | Python | Open Source | Yes | Classification/Regression| Advisor is the hyper parameters tuning system for black box optimization. It is the open-source implementation of Google Vizier. |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
-|Auger                 | Python | Commercial  | Yes | Classification/Regression/Time Series|<a href="https://auger.ai/" target="_blank">link</a>
-|auto_ml               | Python | Open Source (MIT) | Yes (MLP)| Classification/Regression | Automated machine learning for analytics & production. Supports manual feature type declarations. |<a href="https://github.com/ClimbsRocks/auto_ml" target="_blank">github</a>
-|auto-sklearn          | Python | Open Source (BSD-3-Clause) | Yes (MLP)| Classification/Regression | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator |<a href="https://github.com/automl/auto-sklearn" target="_blank">github</a>
-|Auto-Keras            | Python | Open Source | Yes | Classification(also for Text)/Regression (also for Text)/Time Series|<a href="https://github.com/keras-team/autokeras" target="_blank">github</a>
-|BayesianOptimization  | Python | Open Source | Yes (MLP)| HyperParameter Optimization | Pure Python implementation of bayesian global optimization with gaussian processes | <a href="https://github.com/fmfn/BayesianOptimization" target="_blank">github</a>
+|Name                  |Language| License*    | ML Tasks                 | Short Description |Source | 
+| -------------------  | ------ | ----------- | ----------------------   | ------ | ------ |
+|Advisor               | Python | Open Source | Classification/Regression| Advisor is the hyper parameters tuning system for black box optimization. It is the open-source implementation of Google Vizier. |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
+|Auger                 | Python | Commercial  | Classification/Regression/Time Series|<a href="https://auger.ai/" target="_blank">link</a>
+|auto_ml               | Python | Open Source (MIT) | Classification/Regression | Automated machine learning for analytics & production. Supports manual feature type declarations. |<a href="https://github.com/ClimbsRocks/auto_ml" target="_blank">github</a>
+|auto-sklearn          | Python | Open Source (BSD-3-Clause) | Classification/Regression | auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator |<a href="https://github.com/automl/auto-sklearn" target="_blank">github</a>
+|Auto-Keras            | Python | Open Source | Classification(also for Text)/Regression (also for Text)/Time Series|<a href="https://github.com/keras-team/autokeras" target="_blank">github</a>
+|BayesianOptimization  | Python | Open Source | HyperParameter Optimization | Pure Python implementation of bayesian global optimization with gaussian processes | <a href="https://github.com/fmfn/BayesianOptimization" target="_blank">github</a>
 |devol                 | Python | Open Source (MIT)| Automated deep neural network design via genetic programming |Code
 |GAMA	                 | Python	| Open Source (Apache 2.0) | Yes | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
 |Hyperopt              | Python | Open Source | Code   |
