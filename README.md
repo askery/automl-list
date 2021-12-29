@@ -29,7 +29,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
 |MateLabs              | Python | Commercial  | Link
-|FAR-HO                | Python | Open Source | Code
+|FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | https://github.com/lucfra/FAR-HO
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 
 
