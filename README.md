@@ -44,4 +44,4 @@ BayesOpt              | C++    | Open Source | Code
 
 
 ## References
-This list is in part a update of this repository: https://github.com/theainerd/automated-machine-learning
+This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
