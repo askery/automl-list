@@ -4,10 +4,6 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 # Python
 |Name                  |Lang    |Availability | Source | Deep Learning | ML Tasks      |
 | -------------------  | ------ | ----------- | ------ | ------------- | ------------- |
-|Hyperopt              | Python | Open Source | Code   |
-|Hyperopt-sklearn      | Python | Open Source | Code   | 
-|SigOpt                | Python | Commercial  | Link   |
-|SMAC3                 | Python | Open Source | Code   |
 |Advisor               | Python | Open Source | Code   |
 |Auger                 | Python | Commercial  | Link   |
 |auto-sklearn          | Python | Open Source | Code   | Yes (MLP)  | Classification/Regression |
@@ -15,6 +11,10 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |RoBO                  | Python | Open Source | Code
 |BayesianOptimization  | Python | Open Source | Code
 |Scikit-Optimize       | Python | Open Source | Code
+|Hyperopt              | Python | Open Source | Code   |
+|Hyperopt-sklearn      | Python | Open Source | Code   | 
+|SigOpt                | Python | Commercial  | Link   |
+|SMAC3                 | Python | Open Source | Code   |
 |HyperBand             | Python | Open Source | Code
 |Optunity              | Python | Open Source | Code
 |TPOT                  | Python | Open Source | Code
