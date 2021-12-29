@@ -28,10 +28,16 @@ DEvol                 | Python | Open Source | Code
 
 
 # Java 
+|Name                  |Lang    |Availability | Source |
+| -------------------  | ------ | ----------- | ------ |
 Auto-WEKA             | Java   | Open Source | Code
 
-# Scala - 
+# Scala 
+|Name                  |Lang    |Availability | Source |
+| -------------------  | ------ | ----------- | ------ |
 TransmogrifAI         | Scala  | Open Source | Code
 
 # C++
+|Name                  |Lang    |Availability | Source |
+| -------------------  | ------ | ----------- | ------ |
 BayesOpt              | C++    | Open Source | Code
