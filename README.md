@@ -2,8 +2,8 @@
 A List of open-source and commercial Automated Machine Learning (autoML) tools 
 
 # Python
-|Name                  |Language| License*    | ML Tasks                 | Short Description |Source | 
-| -------------------  | ------ | ----------- | ----------------------   | ------ | ------ |
+|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Advisor               | Python | Open Source | Classification/Regression| Advisor is the hyper parameters tuning system for black box optimization. It is the open-source implementation of Google Vizier. |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |Auger                 | Python | Commercial  | Classification/Regression/Time Series|<a href="https://auger.ai/" target="_blank">link</a>
 |auto_ml               | Python | Open Source (MIT) | Classification/Regression | Automated machine learning for analytics & production. Supports manual feature type declarations. |<a href="https://github.com/ClimbsRocks/auto_ml" target="_blank">github</a>
