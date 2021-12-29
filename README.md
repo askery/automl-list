@@ -17,6 +17,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |SigOpt                | Python | Commercial  | Link   |
 |SMAC3                 | Python | Open Source | Code   |
 |HyperBand             | Python | Open Source | Code
+|Optuna                | Python | Open Source |  An open source hyperparameter optimization framework to automate hyperparameter search | Code
 |Optunity              | Python | Open Source | Code
 |TPOT                  | Python | Open Source | Code
 |Cloud AutoML          | Python | Commercial  | Link
