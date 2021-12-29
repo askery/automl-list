@@ -20,7 +20,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |SMAC3                 | Python | Open Source | Code   |
 |HyperBand             | Python | Open Source | Code
 |MLBox	               | Python	| BSD-3-Clause | | | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing.
-|Optuna                | Python | MIT | Classification/Regression |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
+|Optuna                | Python | MIT | HyperParameter Optimization	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
 |Optunity              | Python | Open Source | Code
 |TPOT                  | Python | Open Source | Code
 |Cloud AutoML          | Python | Commercial  | Link
