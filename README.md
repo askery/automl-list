@@ -27,7 +27,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |HyperBand             | Python | Open Source | Code
 |Optunity              | Python | Open Source | Code
 |TPOT                  | Python | Open Source | Code
-|Cloud AutoML          | Python | Commercial  | Link
+|Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | Train high-quality custom machine learning models with minimal effort and machine learning expertise | <a href=" https://cloud.google.com/automl/" target="_blank">link</a>
 |H2O                   | Python | Commercial  | Link
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
