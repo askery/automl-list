@@ -57,7 +57,7 @@ BayesOpt              | C++    | Open Source | Code
 |Recipe	               |C	      | GPL-v3	    | | Machine-learning pipeline optimization through genetic programming. Uses grammars to define pipeline structure|
 
 
-* For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
+*For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
 ## References
 This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
