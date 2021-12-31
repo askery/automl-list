@@ -61,9 +61,6 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
 
 
-https://www.datarobot.com/platform/automated-machine-learning/
-
-
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
 ## References
@@ -73,9 +70,6 @@ This list is an update inspired in this repository: https://github.com/theainerd
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
 |SigOpt                | Python | Commercial  | Link   |
 |H2O                   | Python | Commercial  | Link
-|DataRobot             | Python | Commercial  | Link
-|MLJAR                 | Python | Commercial  | Link
-|MateLabs              | Python | Commercial  | Link
 --->
 
 
