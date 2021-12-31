@@ -2,7 +2,7 @@
 A List of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
 # Python
-|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Advisor               | Python | Apache 2.0 | Classification/Regression| Advisor is the hyper parameters tuning system for black box optimization. It is the open-source implementation of Google Vizier |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |Auger                 | Python | Apache 2.0  | Classification/Regression/Time Series| The A2ML ("Automate AutoML") project is a Python API and set of command line tools to automate Automated Machine Learning tools from multiple vendors| <a href="https://auger.ai/automl/" target="_blank">link</a>
@@ -39,28 +39,28 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools, 
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 
 # Java 
-|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models | <a href="https://github.com/automl/autoweka" target="_blank">github</a>
 |H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0 |  |	Automated: data prep, hyperparameter tuning, random grid search and stacked ensembles in a distributed ML platform | <a href="https://github.com//h2oai/h2o-3/blob/master/h2o-docs/src/product/downloading.rst" target="_blank">github</a>
 
 # Julia
-|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Advisor               | Julia  | MIT | Classification/Regression | AutoMLPipeline (AMLP) is a package that makes it trivial to create complex ML pipeline structures using simple expressions |<a href="https://github.com/IBM/AutoMLPipeline.jl" target="_blank">github</a>
 
 # Scala 
-|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |TransmogrifAI         | Scala  | Open Source | Classification/Regression |AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation | <a href="https://github.com/salesforce/TransmogrifAI" target="_blank">github</a>
 
 # C++
-|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
 
 # Cloud Solutions
-|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Amazon Lex| Python | Commercial  | NLP Tasks | "Automatically build machine learning models with speed and scale" | <a href="https://aws.amazon.com/lex/" target="_blank">link</a>
 |Azure AutoML| Python | Commercial  | NLP Tasks | "Easily add AI that understands intent, maintains context, and automates simple tasks across many languages" | <a href="https://azure.microsoft.com/en-us/services/machine-learning/#product-overview" target="_blank">link</a>
