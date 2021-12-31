@@ -68,7 +68,8 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 - We have used TPOT as the ML main tool in a supervised project to unveil some galaxies properties: https://arxiv.org/pdf/2111.01185.pdf
 
 ## References
-This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
+[1] https://github.com/theainerd/automated-machine-learning
+[2] https://analyticsindiamag.com/10-popular-automl-tools-developers-can-use/
 
 
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
