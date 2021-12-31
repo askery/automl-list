@@ -60,6 +60,9 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |DataRobot   | Python | Commercial  | Classification/Regression/NLP | "DataRobot’s Automated Machine Learning (AutoML) solution empowers AI Creators at many organizations to apply their domain expertise and deliver best-in-class models without sacrificing time and trust" | <a href="https://www.datarobot.com/platform/automated-machine-learning/" target="_blank">link</a>
 |Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
 
+## Personal Usage
+- We have used TPOT as a final meta-learner step to blend the classification/regression outputs of many MLPs: https://arxiv.org/pdf/1808.07069.pdf
+- We compared the performance of TPOT, AutoKeras, Auto-PyTorch and autosklearn against
 
 ## References
 This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
