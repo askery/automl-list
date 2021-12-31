@@ -14,13 +14,10 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |devol                 | Python | MIT         | | DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras | <a href="https://github.com/joeddav/devol" target="_blank"> github </a>
 |FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | <a href="https://github.com/lucfra/FAR-HO" target="_blank">github</a>
 |GAMA	                 | Python	| Apache 2.0  | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
-|Hyperopt              | Python | Open Source | Code   |
-|Hyperopt-sklearn      | Python | Open Source | Code   | 
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
 |Optuna                | Python | MIT | HyperParameter Optimization	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
 |Orange                | Python | GPL-v3 | HyperParameter Optimization	 |A data mining and visualization toolbox for novice and expert alike. To explore data with Orange, one requires no programming or in-depth mathematical knowledge | <a href="https://github.com/biolab/orange3" target="_blank"> github </a>
 |PyCaret               | Python | MIT | Classification/Regression/NLP	 | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows | <a href="https://github.com/pycaret/pycaret" target="_blank"> github </a>
-|RoBO                  | Python | Open Source | Code
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
 |TPOT                  | Python | GPL-v3 | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
 |Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | Train high-quality custom machine learning models with minimal effort and machine learning expertise | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
@@ -69,6 +66,9 @@ This list is an update inspired in this repository: https://github.com/theainerd
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
 |MateLabs              | Python | Commercial  | Link
+|Hyperopt              | Python | Open Source | Code   |
+|Hyperopt-sklearn      | Python | Open Source | Code   | 
+|RoBO                  | Python | Open Source | Code
 --->
 
 
