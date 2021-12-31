@@ -1,5 +1,5 @@
 # automl-list
-A List of open-source and commercial Automated Machine Learning (autoML) tools 
+A List of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
 # Python
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
@@ -61,8 +61,6 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
 
 
-*For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
-
 ## References
 This list is an update inspired in this repository: https://github.com/theainerd/automated-machine-learning
 
@@ -72,4 +70,5 @@ This list is an update inspired in this repository: https://github.com/theainerd
 |H2O                   | Python | Commercial  | Link
 --->
 
+*For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
