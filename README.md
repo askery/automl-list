@@ -22,6 +22,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools, 
 |MateLabs          | Python | Commercial | | "Mateverse is our home grown AutoML platform to create scalable & highly optimized ML Solutions rapidly . Our AutoML tech is 100x faster and extremely low touch needing no manual intervention" | <a href=" https://www.matelabs.ai/about#Overview" target="_blank"> link </a>
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
 |mljar	               | Python	| MIT | Classification/Regression | 	Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation  | <a href="https://github.com/mljar" target="_blank"> github </a>
+|Nyckel          | Python | Commercial | NLP Tasks| "The lightning fast machine learning platform for developers" | <a href="https://www.nyckel.com/docs" target="_blank"> link </a
 |oneclick.ai           | Python | Commercial | Classification/Regression| "Our neural network architecture search algorithm will find the optimal model for extracting insights from your data" | <a href="https://www.oneclick.ai/home/oneclick-enterprise-ai-platform/" target="_blank"> link </a>
 |Optunity                | Python with API for R and MATLAB | MIT | HyperParameter Optimization	 |Optunity is a library containing various optimizers for hyperparameter tuning | <a href="https://github.com/claesenm/optunity" target="_blank"> github </a>
 |Optuna                | Python | MIT | HyperParameter Optimization	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
@@ -59,7 +60,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |DataRobot   | Python | Commercial  | Classification/Regression/NLP | "DataRobot’s Automated Machine Learning (AutoML) solution empowers AI Creators at many organizations to apply their domain expertise and deliver best-in-class models without sacrificing time and trust" | <a href="https://www.datarobot.com/platform/automated-machine-learning/" target="_blank">link</a>
-|Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
+|Google Vertex AI (AutoML)| Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/vertex-ai" target="_blank">link</a>
 
 ## Personal Usage
 - We have used TPOT as a final meta-learner step to blend the classification/regression outputs of many MLPs: https://arxiv.org/pdf/1808.07069.pdf
