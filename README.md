@@ -18,6 +18,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |HpBandSter	           | Python	| BSD-2-clause   | Regression/Classification | a distributed Hyperband implementation on Steroids | <a href="https://github.com/automl/HpBandSter" target="_blank">github</a>
 |Hyperopt	             | Python	| Open Source   | Regression/Classification |	Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions | <a href="https://github.com/hyperopt/hyperopt" target="_blank">github</a>
 |Hyperopt-sklearn 	   | Python	| Open Source   | Regression/Classification |	Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn | <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank">github</a>
+|MateLabs          | Python | Commercial | | "Mateverse is our home grown AutoML platform to create scalable & highly optimized ML Solutions rapidly . Our AutoML tech is 100x faster and extremely low touch needing no manual intervention" | <a href=" https://www.matelabs.ai/about#Overview" target="_blank"> link </a>
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
 |mljar	               | Python	| MIT | Classification/Regression | 	Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation  | <a href="https://github.com/mljar" target="_blank"> github </a>
 |oneclick.ai           | Python | Commercial | Classification/Regression| "Our neural network architecture search algorithm will find the optimal model for extracting insights from your data" | <a href="https://www.oneclick.ai/home/oneclick-enterprise-ai-platform/" target="_blank"> link </a>
@@ -31,7 +32,6 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |SMAC3                 | Python | BSD-3-Clause |  HyperParameter Optimization | Sequential Model Algorithm Configuration (SMAC) is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms, including hyperparameter optimization of Machine Learning algorithms |<a href="https://github.com/automl/SMAC3" target="_blank">github</a>
 |TPOT                  | Python | GPL-v3 | Classification/Regression | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
-
 
 # Java 
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
