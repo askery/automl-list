@@ -14,6 +14,8 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |devol                 | Python | MIT         | | DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras | <a href="https://github.com/joeddav/devol" target="_blank"> github </a>
 |FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | <a href="https://github.com/lucfra/FAR-HO" target="_blank">github</a>
 |GAMA	                 | Python	| Apache 2.0  | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
+|Hyperopt	             | Python	| Open Source   | Regression/Classification |	Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions | <a href="https://github.com/hyperopt/hyperopt" target="_blank">github</a>
+|Hyperopt-sklearn 	   | Python	| Open Source   | Regression/Classification |	Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn | <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank">github</a>
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
 |Optunity                | Python with API for R and MATLAB | MIT | HyperParameter Optimization	 |Optunity is a library containing various optimizers for hyperparameter tuning | <a href="https://github.com/claesenm/optunity" target="_blank"> github </a>
 |Optuna                | Python | MIT | HyperParameter Optimization	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
@@ -67,8 +69,6 @@ This list is an update inspired in this repository: https://github.com/theainerd
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
 |MateLabs              | Python | Commercial  | Link
-|Hyperopt              | Python | Open Source | Code   |
-|Hyperopt-sklearn      | Python | Open Source | Code   | 
 --->
 
 
