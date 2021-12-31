@@ -44,7 +44,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 # C++
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-|BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning |Code
+|BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
 
 # C
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
