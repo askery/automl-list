@@ -38,12 +38,12 @@ H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0	Automated
 # Scala 
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-TransmogrifAI         | Scala  | Open Source | Code
+|TransmogrifAI         | Scala  | Open Source | Code
 
 # C++
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-BayesOpt              | C++    | Open Source | Code
+|BayesOpt              | C++    | Open Source | Code
 
 # C
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
