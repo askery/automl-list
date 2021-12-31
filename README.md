@@ -38,7 +38,7 @@ H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0	Automated
 # Scala 
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-|TransmogrifAI         | Scala  | Open Source | Code
+|TransmogrifAI         | Scala  | Open Source | AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation | <a href="https://github.com/salesforce/TransmogrifAI" target="_blank">github</a>
 
 # C++
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
