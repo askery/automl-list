@@ -25,8 +25,8 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 
 
 # Java 
-|Name                  |Lang    |Availability | Source |
-| -------------------  | ------ | ----------- | ------ |
+|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 Auto-WEKA             | Java   | Open-Source (GPL-v3) | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models. Code
 H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0	Automated: data prep, hyperparameter tuning, random grid search and stacked ensembles in a distributed ML platform.
 
@@ -36,18 +36,18 @@ H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0	Automated
 |Advisor               | Julia  | MIT | Classification/Regression | AutoMLPipeline (AMLP) is a package that makes it trivial to create complex ML pipeline structures using simple expressions |<a href="https://github.com/IBM/AutoMLPipeline.jl" target="_blank">github</a>
 
 # Scala 
-|Name                  |Lang    |Availability | Source |
-| -------------------  | ------ | ----------- | ------ |
+|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 TransmogrifAI         | Scala  | Open Source | Code
 
 # C++
-|Name                  |Lang    |Availability | Source |
-| -------------------  | ------ | ----------- | ------ |
+|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 BayesOpt              | C++    | Open Source | Code
 
 # C
-|Name                  |Language| License*    | Deep Learning | ML Tasks                 | Short Description |Source | 
-| -------------------  | ------ | ----------- | ------------- | ----------------------   | ------ | ------ |
+|Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
+| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Recipe	               |C	      | GPL-v3	    | | Machine-learning pipeline optimization through genetic programming. Uses grammars to define pipeline structure|
 
 
