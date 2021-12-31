@@ -24,6 +24,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |PyCaret               | Python | MIT | Classification/Regression/NLP	 | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows | <a href="https://github.com/pycaret/pycaret" target="_blank"> github </a>
 |RoBO          | Python | BSD-3-Clause|  | RoBO is a flexible framework for robust Bayesian Optimization |<a href="https://github.com/automl/RoBO" target="_blank">github</a>
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
+|SMAC3                 | Python | BSD-3-Clause |  HyperParameter Optimization | Sequential Model Algorithm Configuration (SMAC) is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms, including hyperparameter optimization of Machine Learning algorithms |<a href="https://github.com/automl/SMAC3" target="_blank">github</a>
 |TPOT                  | Python | GPL-v3 | Classification/Regression | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
 |Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | Train high-quality custom machine learning models with minimal effort and machine learning expertise | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
@@ -64,8 +65,6 @@ This list is an update inspired in this repository: https://github.com/theainerd
 
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
 |SigOpt                | Python | Commercial  | Link   |
-|SMAC3                 | Python | Open Source | Code   |
-
 |H2O                   | Python | Commercial  | Link
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
