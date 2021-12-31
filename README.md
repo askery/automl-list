@@ -15,6 +15,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | <a href="https://github.com/lucfra/FAR-HO" target="_blank">github</a>
 |GAMA	                 | Python	| Apache 2.0  | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
+|Optunity                | Python with API for R and MATLAB | MIT | HyperParameter Optimization	 |Optunity is a library containing various optimizers for hyperparameter tuning | <a href="https://github.com/claesenm/optunity" target="_blank"> github </a>
 |Optuna                | Python | MIT | HyperParameter Optimization	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
 |Orange                | Python | GPL-v3 | HyperParameter Optimization	 |A data mining and visualization toolbox for novice and expert alike. To explore data with Orange, one requires no programming or in-depth mathematical knowledge | <a href="https://github.com/biolab/orange3" target="_blank"> github </a>
 |PyCaret               | Python | MIT | Classification/Regression/NLP	 | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows | <a href="https://github.com/pycaret/pycaret" target="_blank"> github </a>
@@ -62,14 +63,12 @@ This list is an update inspired in this repository: https://github.com/theainerd
 |SigOpt                | Python | Commercial  | Link   |
 |SMAC3                 | Python | Open Source | Code   |
 |HyperBand             | Python | Open Source | Code
-|Optunity              | Python | Open Source | Code
 |H2O                   | Python | Commercial  | Link
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
 |MateLabs              | Python | Commercial  | Link
 |Hyperopt              | Python | Open Source | Code   |
 |Hyperopt-sklearn      | Python | Open Source | Code   | 
-|RoBO                  | Python | Open Source | Code
 --->
 
 
