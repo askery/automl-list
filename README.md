@@ -24,10 +24,6 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
 |TPOT                  | Python | GPL-v3 | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
 |Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | Train high-quality custom machine learning models with minimal effort and machine learning expertise | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
-|H2O                   | Python | Commercial  | Link
-|DataRobot             | Python | Commercial  | Link
-|MLJAR                 | Python | Commercial  | Link
-|MateLabs              | Python | Commercial  | Link
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 
 
@@ -69,6 +65,10 @@ This list is an update inspired in this repository: https://github.com/theainerd
 |SMAC3                 | Python | Open Source | Code   |
 |HyperBand             | Python | Open Source | Code
 |Optunity              | Python | Open Source | Code
+|H2O                   | Python | Commercial  | Link
+|DataRobot             | Python | Commercial  | Link
+|MLJAR                 | Python | Commercial  | Link
+|MateLabs              | Python | Commercial  | Link
 --->
 
 
