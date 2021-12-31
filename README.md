@@ -28,7 +28,6 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
 |SMAC3                 | Python | BSD-3-Clause |  HyperParameter Optimization | Sequential Model Algorithm Configuration (SMAC) is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms, including hyperparameter optimization of Machine Learning algorithms |<a href="https://github.com/automl/SMAC3" target="_blank">github</a>
 |TPOT                  | Python | GPL-v3 | Classification/Regression | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
-|Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | Train high-quality custom machine learning models with minimal effort and machine learning expertise | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 
 
@@ -53,10 +52,14 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
 
-# C
+# Cloud Solutions
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-|Recipe	               |C	      | GPL-v3	    | Classification/Regression | Machine-learning pipeline optimization through genetic programming. Uses grammars to define pipeline structure| <a href="https://github.com/laic-ufmg/Recipe" target="_blank">github</a>
+|DataRobot   | Python | Commercial  | Classification/Regression/NLP | "DataRobot’s Automated Machine Learning (AutoML) solution empowers AI Creators at many organizations to apply their domain expertise and deliver best-in-class models without sacrificing time and trust" | <a href="https://www.datarobot.com/platform/automated-machine-learning/" target="_blank">link</a>
+|Google Cloud AutoML   | Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/automl/" target="_blank">link</a>
+
+
+https://www.datarobot.com/platform/automated-machine-learning/
 
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
