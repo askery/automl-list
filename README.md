@@ -14,6 +14,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 |devol                 | Python | MIT         | | DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras | <a href="https://github.com/joeddav/devol" target="_blank"> github </a>
 |FAR-HO                | Python | MIT | Classification/Regression| Gradient-based hyperparameter optimization and meta-learning package based on TensorFlow | <a href="https://github.com/lucfra/FAR-HO" target="_blank">github</a>
 |GAMA	                 | Python	| Apache 2.0  | Regression/Classification |	Machine-learning pipeline optimization through asynchronous evaluation based genetic programming | <a href="https://github.com/openml-labs/gama" target="_blank">github</a>
+|HyperBand	           | Python	| Open Source   | Regression/Classification | Code for tuning hyperparams with Hyperband, adapted from Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization | <a href="https://github.com/zygmuntz/hyperband" target="_blank">github</a>
 |Hyperopt	             | Python	| Open Source   | Regression/Classification |	Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions | <a href="https://github.com/hyperopt/hyperopt" target="_blank">github</a>
 |Hyperopt-sklearn 	   | Python	| Open Source   | Regression/Classification |	Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn | <a href="https://github.com/hyperopt/hyperopt-sklearn" target="_blank">github</a>
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
@@ -64,7 +65,7 @@ This list is an update inspired in this repository: https://github.com/theainerd
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
 |SigOpt                | Python | Commercial  | Link   |
 |SMAC3                 | Python | Open Source | Code   |
-|HyperBand             | Python | Open Source | Code
+
 |H2O                   | Python | Commercial  | Link
 |DataRobot             | Python | Commercial  | Link
 |MLJAR                 | Python | Commercial  | Link
