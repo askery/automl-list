@@ -28,7 +28,7 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools
 # Java 
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-Auto-WEKA             | Java   | Open-Source (GPL-v3) | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models. Code
+Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models | <a href="https://github.com/automl/autoweka" target="_blank">github</a>
 H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0	Automated: data prep, hyperparameter tuning, random grid search and stacked ensembles in a distributed ML platform.
 
 # Julia
