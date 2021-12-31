@@ -48,7 +48,7 @@ H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0	Automated
 # C
 |Name                  |Language| License*    | ML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-|Recipe	               |C	      | GPL-v3	    | | Machine-learning pipeline optimization through genetic programming. Uses grammars to define pipeline structure|
+|Recipe	               |C	      | GPL-v3	    | Classification/Regression | Machine-learning pipeline optimization through genetic programming. Uses grammars to define pipeline structure| https://github.com/laic-ufmg/Recipe
 
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
