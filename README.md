@@ -76,7 +76,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 - We have used TPOT as a final meta-learner step to blend the classification/regression outputs of many MLPs: https://arxiv.org/pdf/1808.07069.pdf
 - We compared the performance of TPOT, Auto-Keras, Auto-PyTorch and auto-sklearn vs step-by-step creation of some common algorithms: https://arxiv.org/pdf/2001.08118.pdf
 - We have used TPOT as the ML main tool in a supervised project to unveil some galaxies properties: https://arxiv.org/pdf/2111.01185.pdf
-- We have also combined some AutoML tools such as Pycaret/TPOa nnd Auto-Keras/TPOT to achieve improved performance. 
+- We have also combined some AutoML tools such as Pycaret/TPOT nnd Auto-Keras/TPOT to achieve improved performance. 
 
 ## References
 [1] https://github.com/theainerd/automated-machine-learning
