@@ -79,6 +79,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |Google Vertex AI (AutoML)| Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/vertex-ai" target="_blank">link</a>
 |JADBio| Python | Commercial  | Classification/Regression/NLP | "JADBio is a state-of-the-art automated Machine Learning Platform, designed for Life Scientists, enabling them to effortlessly make new discoveries and extract knowledge from publicly available or own-study data, without the need for coding" | <a href="https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free/" target="_blank">link</a>
 |H2O.ai | Java with Python, Scala & R APIs and web GUI | Apache 2.0 |  |	"H2O AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit." | <a href="https://www.h2o.ai/blog/a-deep-dive-into-h2os-automl/" target="_blank">link</a>
+
 |MateLabs          | Python | Commercial | | "Mateverse is our home grown AutoML platform to create scalable & highly optimized ML Solutions rapidly . Our AutoML tech is 100x faster and extremely low touch needing no manual intervention" | <a href="https://www.matelabs.ai/about#Overview" target="_blank"> link </a>
 |MLJAR Studio	| Python	| Commercial | Classification/Regression | 	"MLJAR Studio is a desktop application. It allows you to create Python notebooks with no-code graphical interface." | <a href="https://mljar.com/automl/" target="_blank">link</a>
 |Nyckel          | Python | Commercial | NLP Tasks| "The lightning fast machine learning platform for developers" | <a href="https://www.nyckel.com/docs" target="_blank"> link </a>
@@ -115,6 +116,8 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
 |SigOpt                | Python | Commercial  | Link   |
 |H2O                   | Python | Commercial  | Link
+
+https://www.ibm.com/cloud/learn/automl
 
 https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 --->
