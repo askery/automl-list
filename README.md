@@ -1,5 +1,5 @@
 # automl-list
-A List of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
+A list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
 # Python
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
