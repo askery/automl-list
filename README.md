@@ -5,7 +5,6 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools)
 
 # Python
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
-|Python
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Advisor               | Python | Apache 2.0 | HyperParameter Optimization | Advisor is the hyper parameters tuning system for black box optimization. It is the open-source implementation of Google Vizier |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |Auger                 | Python | Apache 2.0  | HyperParameter Optimization - Classification/Regression/Time Series| The A2ML ("Automate AutoML") project is a Python API and set of command line tools to automate Automated Machine Learning tools from multiple vendors| <a href="https://auger.ai/automl/" target="_blank">link</a>
