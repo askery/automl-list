@@ -77,6 +77,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |Google Vertex AI (AutoML)| Python | Commercial  | Classification/Regression/NLP | "Train high-quality custom machine learning models with minimal effort and machine learning expertise" | <a href="https://cloud.google.com/vertex-ai" target="_blank">link</a>
 |JADBio| Python | Commercial  | Classification/Regression/NLP | "JADBio is a state-of-the-art automated Machine Learning Platform, designed for Life Scientists, enabling them to effortlessly make new discoveries and extract knowledge from publicly available or own-study data, without the need for coding" | <a href="https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free/" target="_blank">link</a>
 |H2O.ai | Java with Python, Scala & R APIs and web GUI | Apache 2.0 |  |	"H2O AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit." | <a href="https://www.h2o.ai/blog/a-deep-dive-into-h2os-automl/" target="_blank">link</a>
+|Prevision.io | - | Commercial |  |	"Prevision.io brings powerful AI management capabilities to data science users so more AI projects make it into production and stay in production." | <a href="https://prevision.io/" target="_blank">link</a>
 
 
 
