@@ -37,8 +37,10 @@ A List of open-source and commercial Automated Machine Learning (autoML) tools, 
 |RoBO          | Python | BSD-3-Clause|  | RoBO is a flexible framework for robust Bayesian Optimization |<a href="https://github.com/automl/RoBO" target="_blank">github</a>
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
 |SMAC3                 | Python | BSD-3-Clause |  HyperParameter Optimization | Sequential Model Algorithm Configuration (SMAC) is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms, including hyperparameter optimization of Machine Learning algorithms |<a href="https://github.com/automl/SMAC3" target="_blank">github</a>
+|Splunk | | Commercial | | "Create predictive models in 5 clicks using automated machine learning and data science best practices" | <a href="https://www.splunk.com/en_us/software/splunk-enterprise/machine-learning.html" target="_blank">link</a>
 |TPOT                  | Python | GPL-v3 | Classification/Regression | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
+
 
 # Java 
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
