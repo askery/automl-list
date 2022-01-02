@@ -1,6 +1,8 @@
 # automl-list
 A list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
+Commercial tools stand for either startup or tech giants tools.
+
 # Python
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
@@ -88,6 +90,10 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 [4] https://www.linkedin.com/pulse/top-10-automated-machine-learningauto-ml-tools-used-2020-2021-sahu/
 
 [5] https://towardsdatascience.com/top-automl-open-source-tools-to-automate-your-deep-learning-applications-7e66ef5df96c
+
+[6] https://research.aimultiple.com/auto-ml-software/
+
+[7] https://aimultiple.com/automl-software
 
 
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
