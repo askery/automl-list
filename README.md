@@ -68,6 +68,8 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 # Companies Tools
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
+|Akkio| - | Commercial  | NLP Tasks | "Grow your business with data-driven decisions.
+Go from data to AI in 10 minutes — no code or data science skills required." | <a href="https://www.akkio.com/" target="_blank">link</a>
 |Amazon Lex| Python | Commercial  | NLP Tasks | "Automatically build machine learning models with speed and scale" | <a href="https://aws.amazon.com/lex/" target="_blank">link</a>
 |Azure AutoML| Python | Commercial  | NLP Tasks | "Easily add AI that understands intent, maintains context, and automates simple tasks across many languages" | <a href="https://azure.microsoft.com/en-us/services/machine-learning/#product-overview" target="_blank">link</a>
 |DataRobot   | Python | Commercial  | Classification/Regression/NLP | "DataRobot’s Automated Machine Learning (AutoML) solution empowers AI Creators at many organizations to apply their domain expertise and deliver best-in-class models without sacrificing time and trust" | <a href="https://www.datarobot.com/platform/automated-machine-learning/" target="_blank">link</a>
