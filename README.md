@@ -72,6 +72,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |Amazon Lex| Python | Commercial  | NLP Tasks | "Automatically build machine learning models with speed and scale" | <a href="https://aws.amazon.com/lex/" target="_blank">link</a>
 |Azure AutoML| Python | Commercial  | NLP Tasks | "Easily add AI that understands intent, maintains context, and automates simple tasks across many languages" | <a href="https://azure.microsoft.com/en-us/services/machine-learning/#product-overview" target="_blank">link</a>
 |bigml  | - | Commercial         | HyperParameter Optimization | "Rapidly bring your predictive modeling tasks to production through effective automation. BigML turns the difficult, time-consuming work of hand-tuning models or executing complex workflows into one-click menu options or single API calls" | <a href="https://bigml.com/tools" target="_blank">link</a>
+|DMway  | - | Commercial         | - | "Meet the practical solution that allows anyone in the organization to create valuable predictive analytics and machine learning algorithms, without the complexity of data science." | <a href="https://dmway.com/" target="_blank">link</a>
 |B2Metric  | - | Commercial         | HyperParameter Optimization; Model Selection | "B2Metric automates data cleaning, feature engineering and model selection process with supervised, unsupervised, semi-supervised algorithms." | <a href="https://b2metric.com/" target="_blank">link</a>
 |DataRobot   | Python | Commercial  | Classification/Regression/NLP | "DataRobot’s Automated Machine Learning (AutoML) solution empowers AI Creators at many organizations to apply their domain expertise and deliver best-in-class models without sacrificing time and trust" | <a href="https://www.datarobot.com/platform/automated-machine-learning/" target="_blank">link</a>
 |dataiku   | Python | Commercial  | Classification/Regression/NLP | "Automating the model training process using the best practice techniques combined with built-in guardrails allows business analysts to build and compare multiple production-ready models. Dataiku AutoML uses leading algorithms and frameworks like Scikit-Learn and XGBoost to find the best modeling results in an easy to use interface for users across the business." | <a href="https://www.dataiku.com/product/key-capabilities/machine-learning/" target="_blank">link</a>
@@ -81,9 +82,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |H2O.ai | Java with Python, Scala & R APIs and web GUI | Apache 2.0 |  |	"H2O AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit." | <a href="https://www.h2o.ai/blog/a-deep-dive-into-h2os-automl/" target="_blank">link</a>
 |Prevision.io | - | Commercial |  |	"Prevision.io brings powerful AI management capabilities to data science users so more AI projects make it into production and stay in production." | <a href="https://prevision.io/" target="_blank">link</a>
 
-
-
-## Use Case
+## Use Cases
 - We have used TPOT as a final meta-learner step to blend the classification/regression outputs of many MLPs: https://arxiv.org/pdf/1808.07069.pdf
 - We compared the performance of TPOT, Auto-Keras, Auto-PyTorch and auto-sklearn vs step-by-step creation of some common algorithms: https://arxiv.org/pdf/2001.08118.pdf
 - We have used TPOT as the ML main tool in a supervised project to unveil some galaxies properties: https://arxiv.org/pdf/2111.01185.pdf
@@ -108,6 +107,8 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
 |SigOpt                | Python | Commercial  | Link   |
 |H2O                   | Python | Commercial  | Link
+
+https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 --->
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
