@@ -1,7 +1,7 @@
 # AutoML list
 A list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
-Startup or tech giants AutoML tools appear in a separated list.
+Startup or tech giants AutoML tools appear in a separated list (Companies Tools).
 
 # Python
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
@@ -65,7 +65,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
 
-# Startup and Tech Giant Solutions
+# Companies Tools
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Amazon Lex| Python | Commercial  | NLP Tasks | "Automatically build machine learning models with speed and scale" | <a href="https://aws.amazon.com/lex/" target="_blank">link</a>
