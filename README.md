@@ -90,6 +90,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |TAZI.ai | | Commercial | | "TAZI’s AutoML platform is designed with the user in mind. Major ML techniques that need several lines of coding are now one click away instead. We call this our One-Click Philosophy, all functionalities are designed to be one click away for the user." | <a href="https://www.tazi.ai/how-does-tazi-automl-work/" target="_blank">link</a>
 |TIMi Modeler | Python, R, JavaScript| Commercial | | "Using Modeler is the guarantee to see your models leave the “data lab” and go into production, in one drag & drop." | <a href="https://timi.eu/timi/timi-modeler/" target="_blank">link</a>
 |Splunk | | Commercial | | "Create predictive models in 5 clicks using automated machine learning and data science best practices" | <a href="https://www.splunk.com/en_us/software/splunk-enterprise/machine-learning.html" target="_blank">link</a>
+|Xpanse AI | | Commercial | | "Automated Data Science platform delivering Predictive Models from complex databases in minutes." | <a href="https://xpanse.ai/xpanse-ai/" target="_blank">link</a>
 
 
 ## Use Cases
