@@ -3,7 +3,6 @@ A list of open-source and commercial Automated Machine Learning (autoML) tools, 
 
 Startup or tech giants AutoML tools appear in a separated list (Companies Tools, see below). If they offer open-source tools, they appear in both lists.
 
-# Python
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Advisor               | Python | Apache 2.0 | HyperParameter Optimization | Advisor is the hyper parameters tuning system for black box optimization. It is the open-source implementation of Google Vizier |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
@@ -37,12 +36,7 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |SMAC3                 | Python | BSD-3-Clause |  HyperParameter Optimization | Sequential Model Algorithm Configuration (SMAC) is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms, including hyperparameter optimization of Machine Learning algorithms |<a href="https://github.com/automl/SMAC3" target="_blank">github</a>
 |TPOT                  | Python | GPL-v3 | Classification/Regression | TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming| <a href="https://github.com/EpistasisLab/tpot" target="_blank">github</a>
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
-
-
-# Java 
-|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
-| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models | <a href="https://github.com/automl/autoweka" target="_blank">github</a>
+|Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models | <a href="https://github.com/automl/autoweka" target="_blank">github</a>
 |H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0 |  |	Automated: data prep, hyperparameter tuning, random grid search and stacked ensembles in a distributed ML platform | <a href="https://github.com//h2oai/h2o-3/blob/master/h2o-docs/src/product/downloading.rst" target="_blank">github</a>
 
 # Julia
