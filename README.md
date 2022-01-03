@@ -1,5 +1,5 @@
 # AutoML list
-A compact list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
+A compact and still under development list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
 Startup or tech giants AutoML tools appear in a separated list (Companies Tools, see below). If they offer open-source tools, they appear in both lists.
 
