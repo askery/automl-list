@@ -30,7 +30,6 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |Orange                | Python | GPL-v3 | HyperParameter Optimization	 |A data mining and visualization toolbox for novice and expert alike. To explore data with Orange, one requires no programming or in-depth mathematical knowledge | <a href="https://github.com/biolab/orange3" target="_blank"> github </a>
 |PyCaret               | Python | MIT | Classification/Regression/NLP	 | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows | <a href="https://github.com/pycaret/pycaret" target="_blank"> github </a>
 |Prophet               | Python | MIT | Time Series	 | Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects | <a href="https://github.com/facebook/prophet" target="_blank"> github </a>
-|RapidMiner | | Commercial | | "Create predictive models in 5 clicks using automated machine learning and data science best practices" | <a href="https://rapidminer.com/" target="_blank">link</a>
 |RoBO          | Python | BSD-3-Clause|  | RoBO is a flexible framework for robust Bayesian Optimization |<a href="https://github.com/automl/RoBO" target="_blank">github</a>
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
 |SMAC3                 | Python | BSD-3-Clause |  HyperParameter Optimization | Sequential Model Algorithm Configuration (SMAC) is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms, including hyperparameter optimization of Machine Learning algorithms |<a href="https://github.com/automl/SMAC3" target="_blank">github</a>
@@ -38,20 +37,8 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |Xcessiv	             | Python	| Apache 2.0	| Classification/Regression | A web-based application for quick, scalable, and automated hyper-parameter tuning and stacked ensembling in Python | <a href="https://github.com/reiinakano/xcessiv" target="_blank">github</a>
 |Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selection and hyper-parameter tuning for Weka models | <a href="https://github.com/automl/autoweka" target="_blank">github</a>
 |H2O AutoML | Java with Python, Scala & R APIs and web GUI | Apache 2.0 |  |	Automated: data prep, hyperparameter tuning, random grid search and stacked ensembles in a distributed ML platform | <a href="https://github.com//h2oai/h2o-3/blob/master/h2o-docs/src/product/downloading.rst" target="_blank">github</a>
-
-# Julia
-|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
-| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Advisor               | Julia  | MIT | Classification/Regression | AutoMLPipeline (AMLP) is a package that makes it trivial to create complex ML pipeline structures using simple expressions |<a href="https://github.com/IBM/AutoMLPipeline.jl" target="_blank">github</a>
-
-# Scala 
-|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
-| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |TransmogrifAI         | Scala  | Open Source | Classification/Regression |AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation | <a href="https://github.com/salesforce/TransmogrifAI" target="_blank">github</a>
-
-# C++
-|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
-| -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
 
 # Companies Tools
@@ -81,6 +68,7 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |Nyckel          | Python | Commercial | NLP Tasks| "The lightning fast machine learning platform for developers" | <a href="https://www.nyckel.com/docs" target="_blank"> link </a>
 |oneclick.ai           | Python | Commercial | Classification/Regression| "Our neural network architecture search algorithm will find the optimal model for extracting insights from your data" | <a href="https://www.oneclick.ai/home/oneclick-enterprise-ai-platform/" target="_blank"> link </a>
 |Prevision.io | - | Commercial |  |	"Prevision.io brings powerful AI management capabilities to data science users so more AI projects make it into production and stay in production." | <a href="https://prevision.io/" target="_blank">link</a>
+|RapidMiner | | Commercial | | "Create predictive models in 5 clicks using automated machine learning and data science best practices" | <a href="https://rapidminer.com/" target="_blank">link</a>
 |TAZI.ai | | Commercial | | "TAZI’s AutoML platform is designed with the user in mind. Major ML techniques that need several lines of coding are now one click away instead. We call this our One-Click Philosophy, all functionalities are designed to be one click away for the user." | <a href="https://www.tazi.ai/how-does-tazi-automl-work/" target="_blank">link</a>
 |TIMi Modeler | Python, R, JavaScript| Commercial | | "Using Modeler is the guarantee to see your models leave the “data lab” and go into production, in one drag & drop." | <a href="https://timi.eu/timi/timi-modeler/" target="_blank">link</a>
 |Splunk | | Commercial | | "Create predictive models in 5 clicks using automated machine learning and data science best practices" | <a href="https://www.splunk.com/en_us/software/splunk-enterprise/machine-learning.html" target="_blank">link</a>
