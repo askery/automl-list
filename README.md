@@ -1,5 +1,5 @@
 # AutoML list
-A list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
+A compact list of open-source and commercial Automated Machine Learning (autoML) tools, such as libraries and systems.
 
 Startup or tech giants AutoML tools appear in a separated list (Companies Tools, see below). If they offer open-source tools, they appear in both lists.
 
@@ -96,6 +96,8 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 [6] https://research.aimultiple.com/auto-ml-software/
 
 [7] https://aimultiple.com/automl-software
+
+[8] https://awesomeopensource.com/projects/automl
 
 
 <!--- Automatic Machine Learning (aka AutoML) has been gaining traction within the Data Science community. This surge of interest is reflected on the development and release of numerous open source AutoML libraries (e.g., --- HpBandSter,--- prophet), and on the emergence of businesses focused on building and commercialising AutoML systems (e.g., DataRobot, DarwinAI, H2O.ai, OneClick.ai). 
