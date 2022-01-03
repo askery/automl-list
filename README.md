@@ -81,6 +81,7 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |JADBio| Python | Commercial  | Classification/Regression/NLP | "JADBio is a state-of-the-art automated Machine Learning Platform, designed for Life Scientists, enabling them to effortlessly make new discoveries and extract knowledge from publicly available or own-study data, without the need for coding" | <a href="https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free/" target="_blank">link</a>
 |H2O.ai | Java with Python, Scala & R APIs and web GUI | Commercial |  |	"H2O AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit." | <a href="https://www.h2o.ai/blog/a-deep-dive-into-h2os-automl/" target="_blank">link</a>
 |IBM| - | Commercial |  |	"Build and scale trusted AI on any cloud. Automate the AI lifecycle for ModelOps." | <a href="https://www.ibm.com/cloud/watson-studio" target="_blank">link</a>
+|Kortical| - | Commercial |  |	"Kortical’s competition crushing, cloud scale, distributed AutoML will start finding the best machine learning solution for your dataset." | <a href="https://kortical.com/getting-started" target="_blank">link</a>
 |MateLabs          | Python | Commercial | | "Mateverse is our home grown AutoML platform to create scalable & highly optimized ML Solutions rapidly . Our AutoML tech is 100x faster and extremely low touch needing no manual intervention" | <a href="https://www.matelabs.ai/about#Overview" target="_blank"> link </a>
 |MLJAR Studio	| Python	| Commercial | Classification/Regression | 	"MLJAR Studio is a desktop application. It allows you to create Python notebooks with no-code graphical interface." | <a href="https://mljar.com/automl/" target="_blank">link</a>
 |Nyckel          | Python | Commercial | NLP Tasks| "The lightning fast machine learning platform for developers" | <a href="https://www.nyckel.com/docs" target="_blank"> link </a>
@@ -89,8 +90,6 @@ Auto-WEKA             | Java   | GPL-v3 | | Auto-WEKA is Automated model selecti
 |TAZI.ai | | Commercial | | "TAZI’s AutoML platform is designed with the user in mind. Major ML techniques that need several lines of coding are now one click away instead. We call this our One-Click Philosophy, all functionalities are designed to be one click away for the user." | <a href="https://www.tazi.ai/how-does-tazi-automl-work/" target="_blank">link</a>
 |TIMi Modeler | Python, R, JavaScript| Commercial | | "Using Modeler is the guarantee to see your models leave the “data lab” and go into production, in one drag & drop." | <a href="https://timi.eu/timi/timi-modeler/" target="_blank">link</a>
 |Splunk | | Commercial | | "Create predictive models in 5 clicks using automated machine learning and data science best practices" | <a href="https://www.splunk.com/en_us/software/splunk-enterprise/machine-learning.html" target="_blank">link</a>
-
-
 
 
 ## Use Cases
