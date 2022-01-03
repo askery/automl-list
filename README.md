@@ -27,6 +27,7 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |MLBox	               | Python	| BSD-3-Clause| Classification/Regression | 	Accurate hyper-parameter optimization in high-dimensional space with support for distributed computing. | <a href="https://github.com/AxeldeRomblay/MLBox" target="_blank"> github </a>
 |mljar	               | Python	| MIT | Classification/Regression | 	Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation  | <a href="https://github.com/mljar" target="_blank"> github </a>
 |Microsoft NNI	       | Python	| MIT | Feature Engineering; Neural Architecture Search; Hyperparameter Tuning; Model Compression   | 	NNI (Neural Network Intelligence) is a lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.  | <a href="https://github.com/microsoft/nni" target="_blank"> github </a>
+|NASLib 	       | Python	| Apache 2.0 | Neural Architecture Search |NASLib is a modular and flexible framework created with the aim of providing a common codebase to the community to facilitate research on Neural Architecture Search (NAS)  | <a href="https://github.com/automl/NASLib" target="_blank"> github </a>
 |Optunity                | Python with API for R and MATLAB | MIT | HyperParameter Optimization	 |Optunity is a library containing various optimizers for hyperparameter tuning | <a href="https://github.com/claesenm/optunity" target="_blank"> github </a>
 |Optuna                | Python | MIT | HyperParameter Optimization	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
 |Orange                | Python | GPL-v3 | HyperParameter Optimization	 |A data mining and visualization toolbox for novice and expert alike. To explore data with Orange, one requires no programming or in-depth mathematical knowledge | <a href="https://github.com/biolab/orange3" target="_blank"> github </a>
@@ -42,6 +43,8 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |Advisor               | Julia  | MIT | Classification/Regression | AutoMLPipeline (AMLP) is a package that makes it trivial to create complex ML pipeline structures using simple expressions |<a href="https://github.com/IBM/AutoMLPipeline.jl" target="_blank">github</a>
 |TransmogrifAI         | Scala  | Open Source | Classification/Regression |AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation | <a href="https://github.com/salesforce/TransmogrifAI" target="_blank">github</a>
 |BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
+
+
 
 # Companies Tools
 |Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
