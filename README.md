@@ -65,6 +65,7 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |Advisor               | Julia  | MIT |  | AutoMLPipeline (AMLP) is a package that makes it trivial to create complex ML pipeline structures using simple expressions |<a href="https://github.com/IBM/AutoMLPipeline.jl" target="_blank">github</a>
 |TransmogrifAI         | Scala  | Open Source |  |AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation | <a href="https://github.com/salesforce/TransmogrifAI" target="_blank">github</a>
 |BayesOpt              | C++    | GPL-v3 | | BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning | <a href="https://github.com/rmcantin/bayesopt" target="_blank">github</a>
+|Tangram               |   | MIT |  | Tangram is the all-in-one machine learning toolkit for programmers|<a href="https://github.com/tangramdotdev/tangram" target="_blank">github</a>
 
 
 
