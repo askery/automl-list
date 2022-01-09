@@ -5,8 +5,8 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 
 |Name                  |Language| License*    | AutoML Tasks**          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-|AdaNet               | Python | Apache 2.0 | HPO; NAS | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention |<a href="https://github.com/tensorflow/adanet" target="_blank">github</a>
-|Advisor               | Python | Apache 2.0 | HyperParameter Optimization | Advisor is the hyper parameters tuning system for black box optimization |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
+|AdaNet               | Python | Apache 2.0 | HPO,NAS | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention |<a href="https://github.com/tensorflow/adanet" target="_blank">github</a>
+|Advisor               | Python | Apache 2.0 | HPO | Advisor is the hyper parameters tuning system for black box optimization |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |ATM               | Python | MIT | Model Selection and Tuning) | Auto Tune Models - A multi-tenant, multi-data system for automated machine learning  |<a href=" https://github.com/HDI-Project/ATM" target="_blank">github</a>
 |Auger A2ML            | Python | Apache 2.0  | HyperParameter Optimization | The A2ML project is a Python API and set of command line tools to automate Automated Machine Learning tools from multiple vendors | <a href="https://auger.ai/automl/" target="_blank">link</a>
 |AutoDL-Projects |Python | MIT | HyperParameter Optimization; Neural Architecture Search	| Automated Deep Learning Projects (AutoDL-Projects) is an open source, lightweight, but useful project for everyone| <a href="https://github.com/D-X-Y/AutoDL-Projects" target="_blank"> github</a>
