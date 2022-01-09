@@ -3,9 +3,9 @@ A compact and still under development list of open-source and commercial Automat
 
 Startup or tech giants AutoML tools appear in a separated list (Companies Tools, see below). If they offer open-source tools, they appear in both lists.
 
-|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks**          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
-|AdaNet               | Python | Apache 2.0 | HyperParameter Optimization (HPO); Neural Architecture Search (NAS) | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention |<a href="https://github.com/tensorflow/adanet" target="_blank">github</a>
+|AdaNet               | Python | Apache 2.0 | HPO; NAS | AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention |<a href="https://github.com/tensorflow/adanet" target="_blank">github</a>
 |Advisor               | Python | Apache 2.0 | HyperParameter Optimization | Advisor is the hyper parameters tuning system for black box optimization |<a href="https://github.com/tobegit3hub/advisor" target="_blank">github</a>
 |ATM               | Python | MIT | Model Selection and Tuning) | Auto Tune Models - A multi-tenant, multi-data system for automated machine learning  |<a href=" https://github.com/HDI-Project/ATM" target="_blank">github</a>
 |Auger A2ML            | Python | Apache 2.0  | HyperParameter Optimization | The A2ML project is a Python API and set of command line tools to automate Automated Machine Learning tools from multiple vendors | <a href="https://auger.ai/automl/" target="_blank">link</a>
@@ -143,4 +143,6 @@ https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 --->
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
+
+** HPO - HyperParameter Otimization; NAS - Neural Architecture Search
 
