@@ -57,7 +57,7 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 |Optunity                | Python with API for R and MATLAB | MIT | HyperParameter Optimization	 |Optunity is a library containing various optimizers for hyperparameter tuning | <a href="https://github.com/claesenm/optunity" target="_blank"> github </a>
 |Optuna                | Python | MIT | HPO	 |An open source hyperparameter optimization framework to automate hyperparameter search | <a href="https://github.com/optuna/optuna" target="_blank"> github </a>
 |Orange                | Python | GPL-v3 | HPO	 |A data mining and visualization toolbox for novice and expert alike. To explore data with Orange, one requires no programming or in-depth mathematical knowledge | <a href="https://github.com/biolab/orange3" target="_blank"> github </a>
-|PyCaret               | Python | MIT | HyperParameter Optimization; Model Selection | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows | <a href="https://github.com/pycaret/pycaret" target="_blank"> github </a>
+|PyCaret               | Python | MIT | HPO/MS/MT/ME | PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows | <a href="https://github.com/pycaret/pycaret" target="_blank"> github </a>
 |Prophet               | Python | MIT | Time Series Forecast	 | Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects | <a href="https://github.com/facebook/prophet" target="_blank">github</a>
 |RoBO          | Python | BSD-3-Clause|  | RoBO is a flexible framework for robust Bayesian Optimization |<a href="https://github.com/automl/RoBO" target="_blank">github</a>
 |Scikit-Optimize       | Python | Open Source |  HyperParameter Optimization | A simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization.|<a href="https://github.com/scikit-optimize/scikit-optimize" target="_blank">github</a>
@@ -146,5 +146,5 @@ https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
-** HPO - HyperParameter Otimization; NAS - Neural Architecture Search; FE - Feature Engineering; MS - Model Selection; MT- Model Tuning; AS- Augmentation Search
+** HPO - HyperParameter Otimization; NAS - Neural Architecture Search; FE - Feature Engineering; MS - Model Selection; MT - Model Tuning; ME - Model Ensemble; AS- Augmentation Search
 
