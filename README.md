@@ -146,5 +146,17 @@ https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
-** HPO - HyperParameter Otimization; NAS - Neural Architecture Search; FE - Feature Engineering; MS - Model Selection; MT - Model Tuning; ME - Model Ensemble; AS- Augmentation Search
+** HPO - HyperParameter Otimization; 
+
+NAS - Neural Architecture Search; 
+
+FE - Feature Engineering; 
+
+MS - Model Selection; 
+
+MT - Model Tuning; 
+
+ME - Model Ensemble; 
+
+AS- Augmentation Search.
 
