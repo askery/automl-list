@@ -76,7 +76,7 @@ Startup or tech giants AutoML tools appear in a separated list (Companies Tools,
 
 
 # Companies Tools
-|Name                  |Language| License*    | AutoML Tasks          | Short Description | Source | 
+|Name                  |Language| License*    | AutoML Tasks**          | Short Description | Source | 
 | -------------------  | ------ | ----------- | ----------------  | ----------------- | ------ |
 |Aible| - | Commercial  |  | "Aible is the Only ROI Optimized Auto Machine Learning platform that Delivers Real Business Impact Through Seamless Collaboration." | <a href="https://www.aible.com/roi-optimized-auto-ml" target="_blank">link</a>
 |Akkio| - | Commercial  | NLP Tasks | "Grow your business with data-driven decisions. Go from data to AI in 10 minutes, no code or data science skills required." | <a href="https://www.akkio.com/" target="_blank">link</a>
