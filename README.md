@@ -148,9 +148,9 @@ https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 
 ** AutoML Task description
 
-HPO - HyperParameter Otimization; 
-
 NAS - Neural Architecture Search; 
+
+HPO - HyperParameter Otimization; 
 
 FE - Feature Engineering; 
 
