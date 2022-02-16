@@ -146,7 +146,7 @@ https://enaible.aible.com/analyst-report-gartner-critical-capabilities-2021
 
 *For a concise license explanation check: https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 
-** AutoML Task description
+** AutoML Task description:
 
 NAS - Neural Architecture Search; 
 
